@@ -14,6 +14,6 @@ jobs:
         First_Name: Aswini
       steps:
         - name: "Say Hello Mona it's Monday"
-          run: echo "$Greeting $First_Name is using $cloud
+          run: echo "$Greeting $First_Name is using $cloud"
       
          
